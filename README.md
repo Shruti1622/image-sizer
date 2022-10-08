@@ -19,6 +19,6 @@ customized, easy to use that can help you to compress images, with your choice.
 Note:
 
 1. The simply usecase that put your images in `/public/images/[your-image]` folder and run `npm start` in cmd.
-2. If you want to use browser after `npm start` you need to type `http://loacalhost:3000` in your browser.
+2. If you want to use browser after `npm start` you need to type `http://localhost:3000` in your browser.
 
 After compress you can get your file in `public/images-compressed` folder.
